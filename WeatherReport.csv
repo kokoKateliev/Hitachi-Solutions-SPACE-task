@@ -1,0 +1,8 @@
+Parameters,Average value,Max value,Min value,Median value,
+Temperature(C),29,32,27,30,
+Wind(m/s),6,15,2,6,
+Humidity(%),35,80,15,30,
+Precipitation(%),8,40,0,0,
+Lightning,-,-,-,-,
+Clouds,-,-,-,-,
+The most appropriate launch day,14
