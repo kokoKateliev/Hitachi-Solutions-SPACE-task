@@ -1,0 +1,1 @@
+# Hitachi-Solutions-SPACE-task
