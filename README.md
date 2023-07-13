@@ -1,1 +1,1 @@
-# Hitachi-Solutions-SPACE-task - EDIT
+# Hitachi-Solutions-SPACE-task - EDITed
