@@ -74,7 +74,7 @@ struct cmp {
 
 void ShuttleSchedule::getLaunchingData() {
     vector<DayProperties*> apprDates;
-
+    int testNumbers = 0;
     for (size_t i = 0; i < dates.size(); ++i) {
         
         if (2 <= dates[i].temp && dates[i].temp <= 31 && dates[i].wind <= 10 && dates[i].humid < 60 && dates[i].precip == 0 && dates[i].light == false && dates[i].clouds != "Cumulus" && dates[i].clouds != "Nimbus") {
